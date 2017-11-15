@@ -1,0 +1,16 @@
+{
+    "name": "carpcai/omnipay-payment",
+    "description": "Multi-provider gateway for Omnipay payment processing library",
+    "authors": [
+        {
+            "name": "carpcai",
+            "email": "563998753@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"Omnipay\\Payment\\": "src/"}
+    }
+}
